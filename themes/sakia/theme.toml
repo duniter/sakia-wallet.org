@@ -1,0 +1,14 @@
+name = " Sakia Landing Page"
+description = "An elegant open source landing page theme."
+homepage = "https://github.com/ucoin-io/sakia-wallet.org"
+features = ["social", "images" ]
+min_version= 0.14
+
+[author]
+     name = "inso"
+
+[original]
+    author =  "swcool"
+    homepage = "https://github.com/swcool/landing-page-theme"
+    repo = "https://github.com/swcool/landing-page-theme"
+
