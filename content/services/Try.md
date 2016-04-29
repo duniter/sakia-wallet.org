@@ -4,6 +4,6 @@ draft = false
 weight = 7
 +++
 
-You can download Sakia on [Github](https://github.com/ucoin-io/sakia/releases)
+You can download Sakia on [Github](https://github.com/duniter/sakia/releases)
 
-Join us on [uCoin forums](http://forum.ucoin.io) and download latest Sakia version to try out our beta currency !
+Join us on [Duniter forums](http://forum.duniter.org) and download latest Sakia version to try out our beta currency !
