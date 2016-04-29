@@ -5,7 +5,7 @@ draft = false
 weight = 1
 +++
 
-[Duniter](http://duniter.org/) is an implementation of a Basic Income through cryptocurrencies. We call moneys issued by uCoin networks *Free moneys*. They respect the four economic freedoms as defined in the [Relative Theory of Money](http://vit.free.fr/TRM/en_US/) : 
+[Duniter](http://duniter.org/) is an implementation of a Basic Income through cryptocurrencies. We call moneys issued by Duniter networks *Free moneys*. They respect the four economic freedoms as defined in the [Relative Theory of Money](http://vit.free.fr/TRM/en_US/) : 
 
  * Freedom of democratic modification
  * Freedom to access to resources

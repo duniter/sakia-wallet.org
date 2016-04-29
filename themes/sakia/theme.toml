@@ -1,6 +1,6 @@
 name = " Sakia Landing Page"
 description = "An elegant open source landing page theme."
-homepage = "https://github.com/ucoin-io/sakia-wallet.org"
+homepage = "https://github.com/duniter/sakia-wallet.org"
 features = ["social", "images" ]
 min_version= 0.14
 
