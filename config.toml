@@ -1,0 +1,14 @@
+
+
+baseurl = "http://sakia-wallet.org"
+buildDrafts = true
+languageCode =  "en-US"
+title = "Sakia Wallet"
+theme = "sakia"
+[params]
+  author = "Duniter team"
+  description = "A wallet for Duniter software"
+[[params.social]]
+    title = "github"
+    icon = "github"
+    url = "https://github.com/duniter/sakia"
